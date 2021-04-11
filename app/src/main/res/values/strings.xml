@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="internet_error">Please check your internet connection.</string>
+    <string name="country_code">Country Code  Ex: UK</string>
+    <string name="search">Search</string>
+    <string name="city_name">City Name  Ex: London</string>
+    <string name="server_error">There is some server issue, please try later.</string>
+    <string name="city_not_found">City Not Found.</string>
+    <string name="default_value">----</string>
+    <string name="temperature_less_than_ten">Current temperature is less than 10.</string>
+    <string name="tomorrow_temperature_less_than_ten">Tomorrow temperature is less than 10.</string>
+    <string name="temperature_more_than_thirty">Current temperature is more than 30.</string>
+    <string name="tomorrow_temperature_more_than_thirty">Tomorrow temperature is more than 30.</string>
+    <string name="enter_city_country_code">Please enter city and country code</string>
+    <string name="_5_to_6_days_weather_predictions">5 or 6 Days Weather Predictions</string>
+</resources>
